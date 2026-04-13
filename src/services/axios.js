@@ -8,7 +8,7 @@ const api = axios.create({
   },
  // withCredentials: true,
   // baseURL: 'https://subscriptionmanagement.duckdns.org',
-  // baseURL: 'http://10.253.21.189:1234',
+  // baseURL: 'http://10.162.64.189:1234',
   // headers:{
   //   'Content-Type': 'application/json' ,
   // },

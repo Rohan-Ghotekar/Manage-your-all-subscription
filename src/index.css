@@ -1221,15 +1221,15 @@ body:has(.modal-overlay) {
   align-items: center;
   justify-content: center;
   padding: 12px;
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 
 .plan-modal-box {
   width: min(520px, calc(100vw - 24px));
-  max-height: calc(100vh - 24px);
+  max-height: calc(100dvh - 24px);
   padding: 16px;
   border-radius: 14px;
-  overflow: hidden;
+  overflow-y: auto;
 }
 
 .plan-modal-box .modal-title {
