@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'https://dolorimetric-prosaically-constance.ngrok-free.dev',
+  baseURL: 'https://manageallyoursubscription.duckdns.org',
   headers: {
     'Content-Type': 'application/json' ,
     'ngrok-skip-browser-warning': 'true',
